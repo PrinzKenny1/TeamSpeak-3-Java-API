@@ -1,6 +1,8 @@
 *.class
 .classpath
 .project
+pom.xml
+*.iml
 
 # Package Files #
 *.jar
